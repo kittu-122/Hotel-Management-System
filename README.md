@@ -38,7 +38,7 @@ To set up the database, execute the SQL scripts provided in the database directo
 
 *Installation*
 1) Clone the repository to your local machine.
-git clone https://github.com/your-username/hotel-management-system.git
+git clone https://github.com/kittu-122/hotel-management-system.git
 2) Open the project in IntelliJ IDEA.
 3) Set up the MySQL database and execute the SQL scripts in the database directory.
 4) Update the database connection details in the conn.java file.
