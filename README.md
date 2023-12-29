@@ -1,4 +1,5 @@
 *Hotel Management System*
+
 This repository contains a Hotel Management System implemented in Java using the MySQL database. The system is designed to manage various aspects of a hotel, including customer information, room management, employee details, and more. IntelliJ IDEA is used as the integrated development environment (IDE) for this project.
 
 *Table of Contents*
@@ -30,6 +31,7 @@ This repository contains a Hotel Management System implemented in Java using the
 19) updateroom.java: Updates room details.
 
 *Database*
+
 The system uses MySQL as the database management system. The database is designed to store information about customers, employees, rooms, and other relevant data. The database schema includes tables such as customer, employee, rooms, and more.
 
 To set up the database, execute the SQL scripts provided in the database directory. Make sure to update the database connection details in the connection.java file.
